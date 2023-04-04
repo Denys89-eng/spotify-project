@@ -1,0 +1,32 @@
+.promo {
+  width: 100%;
+  height: 450px;
+  background: url("../img/unnamed1.png") center/ cover no-repeat;
+  overflow: hidden;
+
+ .promo__content{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+    gap: 20px;
+
+    .promo__playlist{
+        font-size: 18px;
+        color: aliceblue;
+    }
+    .promo__main{
+        font-size: 68px;
+        color: white;
+        font-weight: bold;
+        letter-spacing: -4px;
+    }
+    .promo__popular{
+         font-size: 16px;
+         letter-spacing: 0;
+         color: white;
+    }
+ }
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2NNgWC21J0jVbeHBwBkCqNSwgz2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="" />
+      <created>1679509984910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679509984910</updated>
+      <workItem from="1679509986556" duration="8000" />
+      <workItem from="1679523263393" duration="12023000" />
+      <workItem from="1679557558779" duration="1640000" />
+      <workItem from="1679570902485" duration="7850000" />
+      <workItem from="1679819317290" duration="5538000" />
+      <workItem from="1679921529963" duration="13570000" />
+      <workItem from="1679943873003" duration="1803000" />
+      <workItem from="1680019293808" duration="11264000" />
+      <workItem from="1680041875026" duration="7078000" />
+      <workItem from="1680080579918" duration="896000" />
+      <workItem from="1680081538534" duration="2174000" />
+      <workItem from="1680116399217" duration="1974000" />
+      <workItem from="1680171912350" duration="574000" />
+      <workItem from="1680517572105" duration="6463000" />
+      <workItem from="1680557991418" duration="1826000" />
+      <workItem from="1680614411167" duration="701000" />
+      <workItem from="1680625421319" duration="1768000" />
+      <workItem from="1680627231481" duration="1778000" />
+      <workItem from="1680629043004" duration="73000" />
+      <workItem from="1680629189877" duration="1557000" />
+      <workItem from="1680631783391" duration="1680000" />
+      <workItem from="1680634567110" duration="1033000" />
+      <workItem from="1680638115329" duration="365000" />
+      <workItem from="1680645940414" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="186" key="EditFileWatcherDialog" timestamp="1679570862154">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="438" y="186" key="EditFileWatcherDialog/0.0.1536.816@0.0.1536.816" timestamp="1679570862154" />
+    <state x="277" y="53" key="SettingsEditor" timestamp="1679570864081">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1679570864081" />
+    <state x="425" y="185" key="run.anything.popup" timestamp="1679556785889">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1679556785889" />
+  </component>
+</project>

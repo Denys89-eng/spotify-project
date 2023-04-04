@@ -1,0 +1,45 @@
+.playlist {
+  width: 100%;
+  height: 100%;
+  margin-top: 40px;
+
+  &__wrap {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .playlist__line {
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      background: #18181C;
+      width: 100%;
+      height: 90px;
+      gap: 130px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    .playlist__line:hover{
+      background: #292929;
+    }
+    .playlist__line.hover{
+      background: #292929;
+    }
+    .playlist__line.active{
+      background: #444444;
+    }
+    .options{
+      background: #484848;
+      border-radius: 10px;
+    }
+    .options:hover {
+      transition: .3s;
+      background: #1F1F1F;
+    }
+
+  }
+
+}
+
+
