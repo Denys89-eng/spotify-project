@@ -102,6 +102,7 @@ function numId() {
 
 
         let timerWrap = document.createElement('div')
+        timerWrap.classList.add('timer-wrap')
         timerWrap.style.width = '100px'
         let timer = document.createElement('p')
         timer.style.color = 'rgba(255,255,255,0.6)'
@@ -240,3 +241,7 @@ function accountEnter() {
     account.append(name)
 }
 
+function accountLeave() {
+    let accountHover = document.querySelector('.account-hover')
+    accountHover.remove()
+}

@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="" />
+    <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="next">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styl.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +38,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2NNgWC21J0jVbeHBwBkCqNSwgz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,12 +85,33 @@
       <workItem from="1680631783391" duration="1680000" />
       <workItem from="1680634567110" duration="1033000" />
       <workItem from="1680638115329" duration="365000" />
-      <workItem from="1680645940414" duration="302000" />
+      <workItem from="1680645940414" duration="1104000" />
+      <workItem from="1680648001439" duration="22000" />
+      <workItem from="1680728112135" duration="322000" />
+      <workItem from="1680728454015" duration="556000" />
+      <workItem from="1680776627572" duration="28000" />
+      <workItem from="1680990125594" duration="1875000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next" />
+    <option name="LAST_COMMIT_MESSAGE" value="next" />
   </component>
   <component name="WindowStateProjectService">
     <state x="438" y="186" key="EditFileWatcherDialog" timestamp="1679570862154">
@@ -69,6 +122,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1679570864081" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1680991281100">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1680991281100" />
     <state x="425" y="185" key="run.anything.popup" timestamp="1679556785889">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
