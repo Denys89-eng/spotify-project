@@ -16,12 +16,16 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="next">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spotify-project" beforeDir="false" afterPath="$PROJECT_DIR$/spotify-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,9 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="main" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="2NNgWC21J0jVbeHBwBkCqNSwgz2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,7 +90,16 @@
       <workItem from="1680728454015" duration="556000" />
       <workItem from="1680776627572" duration="28000" />
       <workItem from="1680990125594" duration="3569000" />
+      <workItem from="1680997634876" duration="297000" />
     </task>
+    <task id="LOCAL-00001" summary="change color">
+      <created>1680997872449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680997872449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,9 +119,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="next" />
-    <option name="LAST_COMMIT_MESSAGE" value="next" />
+    <MESSAGE value="change color" />
+    <option name="LAST_COMMIT_MESSAGE" value="change color" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="970" y="108" width="486" height="616" key="DiffContextDialog" timestamp="1680997979953">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="970" y="108" width="486" height="616" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1680997979953" />
     <state x="438" y="186" key="EditFileWatcherDialog" timestamp="1679570862154">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
