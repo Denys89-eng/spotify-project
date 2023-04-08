@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="next">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_media.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/styl.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/styl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/styl.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styl.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +82,7 @@
       <workItem from="1680728112135" duration="322000" />
       <workItem from="1680728454015" duration="556000" />
       <workItem from="1680776627572" duration="28000" />
-      <workItem from="1680990125594" duration="1875000" />
+      <workItem from="1680990125594" duration="2490000" />
     </task>
     <servers />
   </component>
