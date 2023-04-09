@@ -4,3 +4,24 @@
     width: 100%;
   }
 }
+
+@media (max-width: 1170px) {
+  .container {
+    padding: 15px;
+    width: 100%;
+  }
+}
+
+
+@media (max-width: 712px) {
+.timer-wrap{
+  display: none;
+}
+  footer{
+    display: none;
+  }
+  .tab-footer{
+    display: flex;
+  }
+  
+}

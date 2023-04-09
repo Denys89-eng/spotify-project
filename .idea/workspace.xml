@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="" />
+    <list default="true" id="e0c738d6-369e-4aa1-b0dc-f32e782f3d11" name="Default Changelist" comment="next">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +35,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
   <component name="ProjectId" id="2NNgWC21J0jVbeHBwBkCqNSwgz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,14 +84,57 @@
       <workItem from="1680631783391" duration="1680000" />
       <workItem from="1680634567110" duration="1033000" />
       <workItem from="1680638115329" duration="365000" />
-      <workItem from="1680645940414" duration="302000" />
+      <workItem from="1680645940414" duration="1104000" />
+      <workItem from="1680648001439" duration="22000" />
+      <workItem from="1680728112135" duration="322000" />
+      <workItem from="1680728454015" duration="556000" />
+      <workItem from="1680776627572" duration="28000" />
+      <workItem from="1680990125594" duration="3569000" />
+      <workItem from="1680997634876" duration="576000" />
+      <workItem from="1680998330941" duration="304000" />
     </task>
+    <task id="LOCAL-00001" summary="change color">
+      <created>1680997872449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680997872449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="next">
+      <created>1680998158761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680998158761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change color" />
+    <MESSAGE value="next" />
+    <option name="LAST_COMMIT_MESSAGE" value="next" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="970" y="108" width="486" height="616" key="DiffContextDialog" timestamp="1680998193876">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="970" y="108" width="486" height="616" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1680998193876" />
     <state x="438" y="186" key="EditFileWatcherDialog" timestamp="1679570862154">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -69,6 +143,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1679570864081" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1680998200231">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1680998200231" />
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1680998125013">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1680998125013" />
     <state x="425" y="185" key="run.anything.popup" timestamp="1679556785889">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
